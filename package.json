@@ -1,0 +1,4 @@
+{ "name": "just-require-here",
+  "private": true,
+  "scripts": {
+    "test": "node test.js" } }
