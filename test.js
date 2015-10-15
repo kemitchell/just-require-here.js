@@ -1,1 +1,1 @@
-require('assert')(require('.'))
+require('assert')(require('.'), 'require "."')
